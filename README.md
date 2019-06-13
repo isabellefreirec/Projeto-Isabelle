@@ -1,7 +1,7 @@
 # Projeto-Isabelle
 
 ## Gerenciador de Livros
-### Projeto feito utilizando o Qt Creator para a disciplina de Programação Estruturada 2019.1. Gerenciador de Livros é uma aplicação que cadastra e gerencia livros de acordo com os dados fornecidos pelos usuários.
+### Projeto feito utilizando o Qt Creator para a disciplina de Programação Estruturada 2019.1. Gerenciador de Livros é uma aplicação que cadastra e gerencia livros de acordo com os dados fornecidos pelo usuário.
 
 Gerenciador de Livros permite que o usuário cadastre o nome e valor dos livros de uma determinada livraria.
 
@@ -16,5 +16,10 @@ Além da tela de cadastro e a lista dos livros e seus respectivos valores, o Ger
 Para começar a usar, é necessário adicionar o nome do livro e o valor do livro e clicar no botão "Cadastrar".
 
 ## Como ordenar por nome? E por valor?
+
+Para ordenar por nome, é simples! Basta clicar na opção "Ordenar por nome" e os livros que foram adicionados na tabela serão organizados em ordem alfabética.
+
+Para ordenar por valor funciona da mesma forma. Basta clicar na opção "Ordenar por valor" e o programa irá mostrar os preços dos livros cadastrados em ordem decrescente.
+
 ## Como acessar as estatísticas?
 ## Como salvar os livros em um arquivo? E como carregar os livros de um arquivo?
