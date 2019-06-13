@@ -5,7 +5,7 @@
 
 Gerenciador de Livros permite que o usuário cadastre o nome e valor dos livros de uma determinada livraria.
 
-Além da tela de cadastro e a lista dos livros e seus respectivos valores, o Gerenciador de Livros possui uma tela de Estatísticas que mosta a média de preço, o filme mais procurado e o menos procurado.
+Além da tela de cadastro e a lista dos livros e seus respectivos valores, o Gerenciador de Livros possui uma tela de Estatísticas que mostra a média de preço, o filme mais procurado e o menos procurado.
 
 # Manual do Usuário
 
