@@ -15,6 +15,8 @@ Além da tela de cadastro e a lista dos livros e seus respectivos valores, o Ger
 
 Para começar a usar, é necessário adicionar o nome do livro e o valor do livro e clicar no botão "Cadastrar".
 
+Com isso, os dados inseridos serão adicionados na tabela, como mostrado:
+
 ## Como ordenar por nome? E por valor?
 
 Para ordenar por nome, é simples! Basta clicar na opção "Ordenar por nome" e os livros que foram adicionados na tabela serão organizados em ordem alfabética.
