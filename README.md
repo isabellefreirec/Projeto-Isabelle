@@ -12,6 +12,9 @@ Além da tela de cadastro e a lista dos livros e seus respectivos valores, o Ger
 ### O Gerenciador de Livros possui um layout fácil e acessível que possibilita uma utilização rápida e intuitiva.
 
 ## Como começar a usar?
+
+Para começar a usar, é necessário adicionar o nome do livro e o valor do livro e clicar no botão "Cadastrar".
+
 ## Como ordenar por nome? E por valor?
 ## Como acessar as estatísticas?
 ## Como salvar os livros em um arquivo? E como carregar os livros de um arquivo?
