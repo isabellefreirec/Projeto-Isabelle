@@ -44,9 +44,11 @@ Como mostrado na imagem abaixo:
 ## Como acessar as estatísticas?
 
 Basta clicar na aba "Estatísticas":
+
 ![Alt ou título da imagem](https://github.com/isabellefreirec/Projeto-Isabelle/blob/master/imagens/imagem8.png)
 
 Ao clicar em "Estatísticas", você terá acesso à média de preços, maior preço e menor preço. Como mostra a figura a seguir: 
+
 ![Alt ou título da imagem](https://github.com/isabellefreirec/Projeto-Isabelle/blob/master/imagens/imagem7.png)
 
 
