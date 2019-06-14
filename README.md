@@ -32,7 +32,7 @@ Como mostrado na imagem abaixo:
 ![Alt ou título da imagem](https://github.com/isabellefreirec/Projeto-Isabelle/blob/master/imagens/imagem5.png)
 
 
-Para ordenar por valor funciona da mesma forma. Basta clicar na opção "Ordenar por preço" e o programa irá mostrar os preços dos livros cadastrados em ordem decrescente.
+Para ordenar por preço funciona da mesma forma. Basta clicar na opção "Ordenar por preço" e o programa irá mostrar os preços dos livros cadastrados em ordem decrescente.
 
 ![Alt ou título da imagem](https://github.com/isabellefreirec/Projeto-Isabelle/blob/master/imagens/imagem4.png)
 
