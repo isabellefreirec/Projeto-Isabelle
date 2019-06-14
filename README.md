@@ -58,7 +58,12 @@ Ao clicar em "Estatísticas", você terá acesso à média de preços, maior pre
 
 ![Alt ou título da imagem](https://github.com/isabellefreirec/Projeto-Isabelle/blob/master/imagens/imagem9.png)
 ![Alt ou título da imagem](https://github.com/isabellefreirec/Projeto-Isabelle/blob/master/imagens/imagem10.png)
+
+Basta dar um nome ao arquivo, como por exemplo "Teste", e clicar na opção "Salvar".
+
 ![Alt ou título da imagem](https://github.com/isabellefreirec/Projeto-Isabelle/blob/master/imagens/imagem12.png)
+
+Pronto! Seus dados estarão salvos!
 
 ## E como carregar os dados de um arquivo?
 
