@@ -13,7 +13,9 @@ Além da tela de cadastro e a lista dos livros e seus respectivos valores, o Ger
 
 ## Como começar a usar?
 
-Para começar a usar, é necessário adicionar o nome do livro e o valor do livro e clicar no botão "Cadastrar".
+Para começar a usar, é necessário adicionar o nome do livro e o valor do livro e clicar no botão "Salvar".
+
+![Alt ou título da imagem](https://github.com/isabellefreirec/Projeto-Isabelle/blob/master/imagens/imagem1.png)
 
 Com isso, os dados inseridos serão adicionados na tabela, como mostrado:
 
