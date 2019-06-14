@@ -25,3 +25,5 @@ Para ordenar por valor funciona da mesma forma. Basta clicar na opção "Ordenar
 
 ## Como acessar as estatísticas?
 ## Como salvar os livros em um arquivo? E como carregar os livros de um arquivo?
+
+### Tenha a lista de livros da sua livraria organizada com o Gerenciador de Livros e bom proveito!
